@@ -8,7 +8,8 @@ So in this class, for understanding Machine Learning and Deep Learning well, don
 
 ## Contents
 
-* Python for ML/DL
+* [Python for ML/DL](python)
+  * [Data Type](python/lecture01.ipynb)
 * Numerical Derivative
 * Regression
 * Classification
