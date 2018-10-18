@@ -17,6 +17,7 @@ So in this class, for understanding Machine Learning and Deep Learning well, don
   * [Matplotlib](python-libs/lecture05.ipynb)
 * [Numerical Derivative](numerical-derivative) : Focus on implementing numerical derivative using python
   * [Derivative](numerical-derivative/lecture06.ipynb)
+  * [Partial Derivative](numerical-derivative/lecture07.ipynb)
 * Regression
 * Classification
 * Neural Network
