@@ -14,6 +14,7 @@ So in this class, for understanding Machine Learning and Deep Learning well, don
   * [Function, Class and Exception](python-basics/lecture03.ipynb)
 * [Python Libraries](python-libs) : Focus on python libraries for implementing Machine Learning and Deep Learning algorithms.
   * [Numpy](python-libs/lecture04.ipynb)
+  * [Matplotlib](python-libs/lecture05.ipynb)
 * Numerical Derivative
 * Regression
 * Classification
