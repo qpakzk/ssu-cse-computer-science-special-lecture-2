@@ -8,10 +8,10 @@ So in this class, for understanding Machine Learning and Deep Learning well, don
 
 ## Contents
 
-* [Python for ML/DL](python)
-  * [Data Type](python/lecture01.ipynb)
-  * [Loop and Control Statement](python/lecture02.ipynb)
-  * [Function, Class and Exception](python/lecture03.ipynb)
+* [Python Basics](python-basics) : Focus on many used python grammars in Machine Learning and Deep Learning.
+  * [Data Type](python-basics/lecture01.ipynb)
+  * [Loop and Control Statement](python-basics/lecture02.ipynb)
+  * [Function, Class and Exception](python-basics/lecture03.ipynb)
 * Numerical Derivative
 * Regression
 * Classification
