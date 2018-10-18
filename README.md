@@ -12,6 +12,8 @@ So in this class, for understanding Machine Learning and Deep Learning well, don
   * [Data Type](python-basics/lecture01.ipynb)
   * [Loop and Control Statement](python-basics/lecture02.ipynb)
   * [Function, Class and Exception](python-basics/lecture03.ipynb)
+* [Python Libraries](python-libs) : Focus on python libraries for implementing Machine Learning and Deep Learning algorithms.
+  * [Numpy](python-libs/lecture04.ipynb)
 * Numerical Derivative
 * Regression
 * Classification
