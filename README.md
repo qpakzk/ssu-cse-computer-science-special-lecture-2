@@ -15,12 +15,11 @@ So in this class, for understanding Machine Learning and Deep Learning well, don
 * [Python Libraries](python-libs) : Focus on python libraries for implementing Machine Learning and Deep Learning algorithms.
   * [Numpy](python-libs/lecture04.ipynb)
   * [Matplotlib](python-libs/lecture05.ipynb)
-* [Numerical Derivative](numerical-derivative) : Focus on implementing numerical derivative using python
+* [Numerical Derivative](numerical-derivative) : Focus on implementing numerical derivative using python.
   * [Derivative](numerical-derivative/lecture06.ipynb)
   * [Partial Derivative](numerical-derivative/lecture07.ipynb)
-* Regression
-* Classification
-* Neural Network
+* [Machine Learning](machine-learning) : Focus on implementing machine learning algorithm using numpy.
+  * [Linear Regression](machine-learning/lecture09.ipynb)
 
 ## LICENSE
 
