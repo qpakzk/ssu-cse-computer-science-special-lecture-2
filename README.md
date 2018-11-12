@@ -20,7 +20,9 @@ So in this class, for understanding Machine Learning and Deep Learning well, don
   * [Partial Derivative](numerical-derivative/lecture07.ipynb)
 * [Machine Learning](machine-learning) : Focus on implementing machine learning algorithm using numpy.
   * [Linear Regression](machine-learning/lecture09.ipynb)
-
+    * [Assignment 1](machine-learning/assignment1.ipynb) : Implement Linear Regression, but using for-loop.
+  * Logistic Regression
+ 
 ## LICENSE
 
 [MIT LICENSE](LICENSE)
