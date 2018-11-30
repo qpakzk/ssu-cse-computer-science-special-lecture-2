@@ -19,11 +19,10 @@ So in this class, for understanding Machine Learning and Deep Learning well, don
   * [Derivative](numerical-derivative/lecture06.ipynb)
   * [Partial Derivative](numerical-derivative/lecture07.ipynb)
 * [Machine Learning](machine-learning) : Focus on implementing machine learning algorithm using numpy.
-  * Machine Learning Overview
-  * [Linear Regression](machine-learning/lecture09.ipynb)
+  * [Linear Regression](machine-learning/lecture08.ipynb)
     * [Assignment 1](machine-learning/assignment1.ipynb) : Implement Linear Regression, but using for-loop.
-  * [Logistic Regression](machine-learning/lecture10.ipynb)
-  * Machine Learning XOR Problem
+  * [Logistic Regression](machine-learning/lecture09.ipynb)
+  * XOR Problem
 * Deep Learning
   * Deep Learning
  
