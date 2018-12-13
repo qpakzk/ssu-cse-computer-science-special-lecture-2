@@ -23,8 +23,8 @@ So in this class, for understanding Machine Learning and Deep Learning well, don
     * [Assignment 1](machine-learning/assignment1.ipynb) : Implement Linear Regression, but using for-loop.
   * [Logistic Regression](machine-learning/lecture09.ipynb)
   * [XOR Problem](machine-learning/lecture10.ipynb)
-* Deep Learning
-  * Deep Learning
+* [Deep Learning](deep-learning) : Implement neural netrotk a.k.a deep learning.
+  * [Neural Network](deep-learning/lecture11.ipynb)
  
 ## LICENSE
 
